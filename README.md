@@ -60,3 +60,4 @@ Youtube links:
 
 1. Dimensionality_Reduction_Techniques_on_Tabular_Data: https://youtu.be/2mfE0YZwBUg
 2. Dimensionality_Reduction_Techniques_Image_Data: https://youtu.be/Ln1zNJobIhc
+3. Dimensionality Reduction using databricks: https://youtu.be/kzjTqf148ns
